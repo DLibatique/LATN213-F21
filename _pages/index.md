@@ -10,7 +10,7 @@ permalink: /
 
 ## NEXT DEADLINES
 
-### TBD
+TBD
 
 ***
 
@@ -28,10 +28,13 @@ permalink: /
 
 ## Course Objectives
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* build grammatical and syntactic knowledge of Latin
+* expand reading comprehension beyond surface-level translation
+* develop ability to read Latin at sight with the help of lexica and commentaries
+* refine Latin pronunciation and speaking skills
 
 ***
 
 ## Course Description
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This course builds on the grammatical and syntactic knowledge base that we began in the introductory sequence (LATN 101 and 102) through reading unaltered Latin texts and applying concepts and skills to the actual words of the ancients. Specific language skills that we will develop include recognizing syntactic patterns and larger narrative structures in connected passages of prose; reading Latin at sight with confidence; reading (and rereading) with increased speed while remaining attentive to very close analysis of assigned passages; and understanding how to use lexica, commentaries, and other scholarly instruments in reading an edition of an ancient text. In Fall 2021, we will read selections from the Letters of Pliny the Younger, supplemented, if time permits, with letters by Cicero, Seneca, and non-elite Romans. These texts will not only allow us to complete our primary objectives of building your language skills but also to engage with important aspects of Roman socio-cultural history, including issues of politics and marriage, the eruption of Mt. Vesuvius, and the rise of Christianity.
