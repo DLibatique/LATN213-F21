@@ -10,7 +10,7 @@ permalink: /
 
 ## NEXT DEADLINES
 
-TBD
+**TBD**
 
 ***
 
@@ -20,7 +20,7 @@ TBD
 **Meeting Place:** TBD  
 **Instructor:** Prof. Daniel Libatique (he/him/his)  
 **Office:** Fenwick 410  
-**Student Hours:** TBD  
+**Student Hours:** M 10:30-11:30am, T 2-3pm, or by appointment  
 **E-mail:** dlibatiq [at] holycross.edu  
 **Website:** [Click here.](https://libatique.info)
 
