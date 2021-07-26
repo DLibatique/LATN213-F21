@@ -85,7 +85,7 @@ If you are already registered with Accessibility Services, please be sure to get
 
 In addition to my email and student hours, there are resources outside myself and the Classics department, like [Academic Services and Learning Resources](https://www.holycross.edu/support-and-resources/academic-services-and-learning-resources) that can help with assignments or your progress through the course in general. Remember, there is no such thing as a stupid question.
 
-By the way, to test whether you’re reading the syllabus all the way through, please send me an email indicating your favorite uppercase Greek letter by 9:00am on Friday, September 3, 2021, with the subject line “Easy as PI! Nothing NU!” If you do so, you will receive five (5) extra credit points (see the [grading](/course_info/grading) page for the course grading structure).
+By the way, to test whether you’re reading the syllabus all the way through, please send me an email indicating your favorite noun case by 12:00pm on Friday, September 3, 2021, with the subject line “I will not decline extra credit!” If you do so, you will receive five (5) extra credit points in your raw quiz point total for the semester.
 
 [Return to top.](#top)
 
