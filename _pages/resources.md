@@ -11,8 +11,8 @@ order: 1
 
 * [L3 Textbook](https://lingualatina.github.io/textbook/): A grammar reference for the LATN 101 and 102 sequence at Holy Cross with grammatical notes and reference tables.
 * [L3 Pliny Text](https://lingualatina.github.io/texts/browsable/pliny/toc): A version of Pliny's text with just the words, for copying and pasting into your own document to print out and make notes on.
-* [Tips for Reading Latin](https://dominicmachado.github.io/tips-for-reading-latn199-f20): Prof. Machado's step-by-step tips for taking apart a Latin sentence.
 * [Pliny on Perseus](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.02.0139): An important web version of Pliny's text that can help you with vocabulary, parsing, and word frequencies.
+* [Tips for Reading Latin](https://dominicmachado.github.io/tips-for-reading-latn199-f20): Prof. Machado's step-by-step tips for taking apart a Latin sentence.
 * [Logeion: Lexidium](https://logeion.uchicago.edu/lexidium): An online version of the Lewis & Short (L&S) Latin to English Dictionary.
 * [Furman: L&S](http://folio2.furman.edu/lewis-short/index.html): Furman University's version of the L&S Dictionary.
 * [Whitaker's Words](http://archives.nd.edu/words.html): Resource to help with parsing and to translate from English to Latin.

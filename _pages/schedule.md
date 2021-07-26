@@ -43,7 +43,7 @@ Quiz 2
 
 ### Wednesday, September 22
 ### Friday, September 24
-Recitation Due
+Recitation Due by 5pm
 
 ***
 

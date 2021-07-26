@@ -31,7 +31,7 @@ Please rest assured that your health and safety and that of your family and frie
 
 Needless to say, these are unprecedented times which call for extraordinary measures. Please don’t ever hesitate to email me, visit with me during student hours or non-preordained times via appointment, or leave a group or private message in the GroupMe with any questions, issues, or concerns that you have. We’re all figuring it out as we go; the best we can do is to be here for each other with compassion and patience. And maybe an occasional fuzzy animal picture or meme. Here’s [a recent favorite of mine](https://twitter.com/DrMRFrancis/status/1130553886585044993):
 
-![](https://libatique.info/GREK214-S21/public/IMG_0877.jpg)
+![](https://libatique.info/LATN213-F21/public/IMG_0877.jpg)
 
 [Return to top.](#top)
 
