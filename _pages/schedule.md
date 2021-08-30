@@ -14,9 +14,10 @@ This page will track our reading assignments and assessment due dates this semes
 ## Week 1
 
 ### Wednesday, September 1
-
+Intro: Pliny the Younger and Intermediate Latin
 
 ### Friday, September 3
+
 
 ***
 
@@ -79,7 +80,7 @@ Quiz 4 due by start of class
 
 
 ### Friday, October 8
-
+Midterm Review (no reading journal)
 
 ***
 
@@ -90,13 +91,13 @@ Quiz 4 due by start of class
 ## Week 7
 
 ### Monday, October 18
-Midterm due by start of class
+Midterm due by start of class (no reading journal)
 
 ### Wednesday, October 20
 
 
 ### Friday, October 22
-[Word Study](word-study) due by 5pm
+[Word Study](projects#word-study) due by 5pm
 
 
 ***
@@ -149,7 +150,7 @@ Quiz 8 due by start of class
 
 
 ### Friday, November 19
-[Reverse Translation](reverse-translation) due by 5pm
+[Reverse Translation](projects#reverse-translation) due by 5pm
 
 ***
 
@@ -173,7 +174,7 @@ Quiz 9 due by start of class
 
 
 ### Friday, December 3
-[Response Composition](response-composition) due by 5pm
+[Response Composition](projects#response-composition) due by 5pm
 
 ***
 

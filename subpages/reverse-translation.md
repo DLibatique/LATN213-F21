@@ -23,7 +23,7 @@ Here is the original Latin:
 
 > Proinde cum venabere, licebit auctore me ut panarium et lagunculam sic etiam pugillares feras: experieris non Dianam magis montibus quam Minervam inerrare. Vale.
 
-Answer the following questions, and then send me your answers in .doc(x), .pdf, or Google Docs format via email.
+Answer the following questions, and then send me your answers in .doc(x) or .pdf format preferably [via the Canvas upload portal here](https://hc.instructure.com/courses/4290/assignments/48730).
 
 1. Are there any words, phrases, or sentences in this translation that you cannot find a source for in the Latin? If so, list them.
 2. Are there any words, phrases, or sentences in this translation that you can find a source for in the Latin, but the translator takes some liberties with their rendering? (i.e., they’re not translating “literally”?) If so, list them and the Latin that you have determined that the English comes from.

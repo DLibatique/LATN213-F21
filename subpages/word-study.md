@@ -43,3 +43,5 @@ Here is the step-by-step process you should take to complete this assignment:
         {: .nomargin }
     * If you do not discern any patterns, make sure to state that too!
     * In either case (pattern or no pattern), do you think your word’s definition contributes to the presence or lack of a pattern? For example, if your word is a noun that is used most often in the accusative case, does something about its definition lend it more to being a direct object than a subject? If it’s a verb that is used most often in the subjunctive mood, does the verb’s definition indicate that it’s more often a possible or potential action than one that actually happens (i.e., indicative mood)?
+
+7. Submit your assignment [via the Canvas upload portal here](https://hc.instructure.com/courses/4290/assignments/48728).

@@ -11,7 +11,7 @@ order: 4
 
 **Due by 5pm on Friday, September 24.**
 
-This assignment asks you to read (in Latin and out loud!) any of Pliny’s letters in our textbook. You will be evaluated based on your pronunciation and your phrasing, with brownie points for tone and inflection. The letter can be as short or as long as you wish; the only requirement is that it be a full letter, rather than a section of a letter. You do NOT need to memorize; you can have the text in front of you, marked however you’d like to help with your reading. You can either do this live via a one-on-one Zoom meeting or via an audio or video recording.
+This assignment asks you to read (in Latin and out loud!) any of Pliny’s letters in our textbook. You will be evaluated based on your pronunciation and your phrasing, with brownie points for tone and inflection. The letter can be as short or as long as you wish; the only requirement is that it be a full letter, rather than a section of a letter. You do NOT need to memorize; you can have the text in front of you, marked however you’d like to help with your reading. You can either do this live during my student hours or via appointment or via an audio or video recording that you can submit at this link: [https://hc.instructure.com/courses/4290/assignments/48727](https://hc.instructure.com/courses/4290/assignments/48727)
 
 Here is a video of me explaining and demonstrating a recitation. (Please note that this video is from last year's course, so disregard the mention of "five long-form assignments" at the beginning. You have only four this semester!)
 
@@ -25,7 +25,7 @@ Here is a video of me explaining and demonstrating a recitation. (Please note th
 
 You will choose one word and trace it (and any of its declensions or conjugations) throughout Pliny’s letters through methods and tools that I will demonstrate for you. How often does the word appear? When is a noun used as a subject versus a direct object? When is a verb used in the subjunctive versus the indicative?
 
-[You can find specific guidelines for this assignment here](word-study).
+[You can find specific guidelines for this assignment here](word-study), and [you can submit this assignment here](https://hc.instructure.com/courses/4290/assignments/48728).
 
 And here is the video linked in the instructions on using Perseus to help you with this assignment.
 

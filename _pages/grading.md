@@ -7,19 +7,13 @@ order: 3
 
 ***
 
-## Quizzes (30%)
-
-About once per week over the weekend, you will complete a quiz aimed at analyzing the Latin readings that we discussed in class that week. You will choose a format for each quiz: either a 1 pg. (double-spaced) guided response to a question relating to the readings (with requirements for citing and translating the Latin), or a video/audio reading demonstration. I will explain more about this in class. All quizzes will be open-note and open-resource, and there will be no time limit for any quiz.
-
-***
-
 ## Reading Journal (30%)
 
 I will ask you to keep a journal of your progress as you read through the Latin assignments for the semester. For each class period that you prepare a Latin reading for, you are to create an entry in your journal that answers the following questions (even if the answers are "no"):
 
 * **Boring stuff**: What date is the target assignment for, what was the target assignment, and how much of it were you able to prepare?
 * **Syntax**: Any constructions that you found particularly difficult? Any that you found easy to understand?
-* **Vocabulary**: Any vocab words that you needed to look up more than once? If so, write out their dictionary entries.
+* **Vocabulary**: Any vocab words that you needed to look up? If so, write out their dictionary entries.
 * **Visual aids**: Include any diagrams or indentation schemes that you created to figure out the structure of the sentences in the assignment.
 
 There is no minimum or maximum length for an entry, and you can format an entry in whatever way makes the most sense to you (full sentences / paragraphs, bullet points, etc.).
@@ -27,6 +21,12 @@ There is no minimum or maximum length for an entry, and you can format an entry 
 You can keep your journal in whatever way makes the most sense to you (a physical notebook, a Google Doc, etc.), but you will be required to submit your journal entry every class period, so take that into account when choosing a format.
 
 Your journals will be graded on whether all entries are complete on time or not. You will not be penalized for not preparing assignments in full or not having long answers to each question for every entry.
+
+***
+
+## Quizzes (30%)
+
+About once per week over the weekend, you will complete a quiz aimed at analyzing the Latin readings that we discussed in class that week. You will choose a format for each quiz from choices that I will lay out for each. Possibilities include drawing a comic to illustrate events in the Latin, summarizing a letter in one Latin sentence, writing a guided response to a question relating to the readings (with requirements for citing and translating the Latin), or a video/audio reading demonstration. I will explain more about this in class. All quizzes will be open-note and open-resource, and there will be no time limit for any quiz.
 
 ***
 
