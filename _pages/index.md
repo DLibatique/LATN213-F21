@@ -10,7 +10,10 @@ permalink: /
 
 ## NEXT DEADLINES
 
-**TBD**
+### Friday, September 3
+
+* Fill out the [student information form](https://forms.gle/ubbEy67RFwB1YS359).
+* Read the [intro of Shelton's commentary (pp. xii to xxiii) (link forthcoming)](#).
 
 ***
 

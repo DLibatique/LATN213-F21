@@ -14,10 +14,14 @@ This page will track our reading assignments and assessment due dates this semes
 ## Week 1
 
 ### Wednesday, September 1
-Intro: Pliny the Younger and Intermediate Latin
+Intro: Syllabus Day, Diagnostic
 
 ### Friday, September 3
+Pliny the Younger
 
+**HW due today**:
+* Fill out the [student information form](https://forms.gle/ubbEy67RFwB1YS359).
+* Read the [intro of Shelton's commentary (pp. xii to xxiii) (link forthcoming)](#).
 
 ***
 
