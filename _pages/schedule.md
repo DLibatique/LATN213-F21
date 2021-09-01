@@ -21,7 +21,8 @@ Pliny the Younger
 
 **HW due today**:
 * Fill out the [student information form](https://forms.gle/ubbEy67RFwB1YS359).
-* Read the [intro of Shelton's commentary (pp. xii to xxiii) (link forthcoming)](#).
+* Read the [intro of Shelton's commentary (pp. xii to xxiii)](https://drive.google.com/file/d/13o7TfUXbPa-Y-dOTIdKVC3TZPcXP2XBS/view?usp=sharing).
+* Start looking at [Shelton 1 (Pliny 1.1)](https://drive.google.com/file/d/19OJBs2DFa3Vwvj5PlN7SgjTwMJgwNT5V/view?usp=sharing)
 
 ***
 
