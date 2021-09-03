@@ -29,7 +29,7 @@ Pliny the Younger
 ## Week 2
 
 ### Monday, September 6
-
+* Prepare [Shelton 1 (Pliny 1.1)](https://drive.google.com/file/d/19OJBs2DFa3Vwvj5PlN7SgjTwMJgwNT5V/view?usp=sharing)
 
 ### Wednesday, September 8
 

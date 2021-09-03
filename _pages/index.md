@@ -10,11 +10,9 @@ permalink: /
 
 ## NEXT DEADLINES
 
-### Friday, September 3
+### Monday, September 6
 
-* Fill out the [student information form](https://forms.gle/ubbEy67RFwB1YS359).
-* Read the [intro of Shelton's commentary (pp. xii to xxiii)](https://drive.google.com/file/d/13o7TfUXbPa-Y-dOTIdKVC3TZPcXP2XBS/view?usp=sharing).
-* Start looking at [Shelton 1 (Pliny 1.1)](https://drive.google.com/file/d/19OJBs2DFa3Vwvj5PlN7SgjTwMJgwNT5V/view?usp=sharing)
+* Prepare [Shelton 1 (Pliny 1.1)](https://drive.google.com/file/d/19OJBs2DFa3Vwvj5PlN7SgjTwMJgwNT5V/view?usp=sharing)
 
 ***
 
