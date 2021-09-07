@@ -10,16 +10,16 @@ permalink: /
 
 ## NEXT DEADLINES
 
-### Monday, September 6
+### Wednesday, September 8
 
-* Prepare [Shelton 1 (Pliny 1.1)](https://drive.google.com/file/d/19OJBs2DFa3Vwvj5PlN7SgjTwMJgwNT5V/view?usp=sharing)
+* Look over end of [Shelton 1 (Pliny 1.1)](https://drive.google.com/file/d/19OJBs2DFa3Vwvj5PlN7SgjTwMJgwNT5V/view?usp=sharing)
 
 ***
 
 ## Course Information
 
 **Meeting Time:** MWF 12-12:50pm  
-**Meeting Place:** TBD  
+**Meeting Place:** Stein 118C  
 **Instructor:** Prof. Daniel Libatique (he/him/his)  
 **Office:** Fenwick 410  
 **Student Hours:** M 10:30-11:30am, T 2-3pm, or by appointment  

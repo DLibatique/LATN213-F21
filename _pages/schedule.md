@@ -32,7 +32,7 @@ Pliny the Younger
 * Prepare [Shelton 1 (Pliny 1.1)](https://drive.google.com/file/d/19OJBs2DFa3Vwvj5PlN7SgjTwMJgwNT5V/view?usp=sharing)
 
 ### Wednesday, September 8
-
+* Continue Shelton 1
 
 ### Friday, September 10
 
