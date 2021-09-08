@@ -35,6 +35,7 @@ Pliny the Younger
 * Continue Shelton 1
 
 ### Friday, September 10
+* Prepare [Shelton 2 (Pliny 1.6)](https://drive.google.com/file/d/15PPDEu_kRRB4iIexMbH6r7hLbgC6dBIk/view?usp=sharing) -- as far as you can make it
 
 ***
 
