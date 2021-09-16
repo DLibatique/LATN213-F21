@@ -10,13 +10,8 @@ permalink: /
 
 ## NEXT DEADLINES
 
-### Wednesday, September 8
-
-* Look over end of [Shelton 1 (Pliny 1.1)](https://drive.google.com/file/d/19OJBs2DFa3Vwvj5PlN7SgjTwMJgwNT5V/view?usp=sharing)
-
-### Friday, September 10
-
-* Prepare [Shelton 2 (Pliny 1.6)](https://drive.google.com/file/d/15PPDEu_kRRB4iIexMbH6r7hLbgC6dBIk/view?usp=sharing) -- as far as you can make it
+### Friday, September 17
+* Prepare [Shelton 3 (Pliny 1.11)](https://drive.google.com/file/d/15Q8iAuf0bh8qE_MfLxGnVZRmQ2Utz26O/view?usp=sharing)
 
 ***
 

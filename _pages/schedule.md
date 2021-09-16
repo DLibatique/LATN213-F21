@@ -48,6 +48,7 @@ Quiz 1 due by start of class
 
 
 ### Friday, September 17
+* Prepare [Shelton 3 (Pliny 1.11)](https://drive.google.com/file/d/15Q8iAuf0bh8qE_MfLxGnVZRmQ2Utz26O/view?usp=sharing)
 
 ***
 
