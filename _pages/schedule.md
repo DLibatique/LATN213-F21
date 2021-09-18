@@ -55,7 +55,8 @@ Quiz 1 due by start of class
 ## Week 4
 
 ### Monday, September 20
-Quiz 2 due by start of class
+* Quiz 2 due by start of class  
+* Prepare [Shelton 5 (Pliny 1.21)](https://drive.google.com/file/d/15_BHZ5p22ppO-DULOojMvl3eOb54rSaQ/view?usp=sharing)
 
 ### Wednesday, September 22
 

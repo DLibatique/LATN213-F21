@@ -10,8 +10,8 @@ permalink: /
 
 ## NEXT DEADLINES
 
-### Friday, September 17
-* Prepare [Shelton 3 (Pliny 1.11)](https://drive.google.com/file/d/15Q8iAuf0bh8qE_MfLxGnVZRmQ2Utz26O/view?usp=sharing)
+### Monday, September 20
+* Prepare [Shelton 5 (Pliny 1.21)](https://drive.google.com/file/d/15_BHZ5p22ppO-DULOojMvl3eOb54rSaQ/view?usp=sharing)
 
 ***
 
