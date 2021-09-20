@@ -11,7 +11,11 @@ permalink: /
 ## NEXT DEADLINES
 
 ### Monday, September 20
+* Submit Quiz 2
 * Prepare [Shelton 5 (Pliny 1.21)](https://drive.google.com/file/d/15_BHZ5p22ppO-DULOojMvl3eOb54rSaQ/view?usp=sharing)
+
+### Wednesday, September 22  
+* Prepare [Shelton 7 (Pliny 3.14)](https://drive.google.com/file/d/18APXMFbsT9oFaFry0XRT0x5uX-5x7BrW/view?usp=sharing)
 
 ***
 
